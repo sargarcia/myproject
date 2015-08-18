@@ -1,1 +1,3 @@
 when to git commit 
+to commit or not commit?
+12345
