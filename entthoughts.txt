@@ -1,1 +1,2 @@
-when to git commit 
+when to git commit
+to commit or not commit? 
